@@ -1,0 +1,12 @@
+
+.bg-image--1 {
+    background-image: url(images/hero2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center; }
+    .color--theme1 {
+        color: #4287f5; }
+
+.hot__box {
+    color: #4287f5; }
+}
